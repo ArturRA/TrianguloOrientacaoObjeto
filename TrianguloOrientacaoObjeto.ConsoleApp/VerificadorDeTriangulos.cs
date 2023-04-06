@@ -23,7 +23,7 @@
         private string VerificarTipoDeTriangulo()
         {
 
-            if (ladoA ==  ladoB && ladoB == ladoC)
+            if (ladoA == ladoB && ladoB == ladoC)
                 return "Triangulo e equilatero";
             else if (ladoA ==  ladoB
                 ||   ladoB == ladoC
